@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/src/main/java/libs/logging-interceptor-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="83fed2e3554b8bacf8209bc22b62d76d4f674533">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/logging-interceptor-3.0.0-RC1_01f037325fe79f8c542115707007f45925f4a615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/src/main/java/libs/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/retrofit-2.2.0_8e136f9064ab95f863e37a134efeb07f17b4f7e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/src/main/java/libs/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-3.6.0_1078373db5f5ca3b6a06b7522477ba421b979233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e43075ce50abb63ce337290048b94027c0716e3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/src/main/java/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.6.2_b30d479c79fcdb8179742a2ce8950f7f6384f749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="201656e92523788dd830990a993090daea054085">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd52f652feed0f7a48c1510838b25b688606a595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta3_374d7995957942a942e841cf651da610317de359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/.android/build-cache/b9761842e2da70223b9a127c57c58ba43df0aee6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61c86cf63ad8bb06f008a011020a92c9f381c1b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/src/main/java/libs/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.11.0_fdfc2db80f354c40204ae10959e6a9759323f7d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gebeya-admin/Downloads/SampleDemo/app/src/main/java/libs/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/gebeya-admin/Downloads/SampleDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/converter-gson-2.1.0_fbca467baaca02b935e704f1e13b2cc030d37e77/classes.dex" />
+    </item>
+
+</items>

@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">SampleDemo</string>
-    <string name="not_yet_member_create_one">Not Yet Member? Create one</string>
-    <string name="enter_password">enter password</string>
-    <string name="enter_email">enter email</string>
-</resources>
